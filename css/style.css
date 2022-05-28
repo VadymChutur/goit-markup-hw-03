@@ -67,7 +67,7 @@ button {
   margin-left: auto;
   margin-right: auto;
 
-  border: 1px red solid;
+  /* border: 1px red solid; */
 }
 
 body {
@@ -95,6 +95,7 @@ body {
   padding-bottom: 25px;
 
   background-color: var(--third-background);
+  border-bottom: 1px solid #ececec;
 }
 
 .header > .container {
